@@ -353,7 +353,7 @@ function App() {
             className="inline-flex items-center gap-3 px-8 py-4 bg-green-500 hover:bg-green-600 text-white font-semibold rounded-2xl transition-all duration-300 hover:transform hover:scale-105 shadow-lg hover:shadow-xl"
           >
             <MessageCircle size={24} />
-            Follow Developer WhatsApp Channel
+            Follow Our WhatsApp Channel
           </a>
         </div>
 
