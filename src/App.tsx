@@ -244,7 +244,7 @@ function App() {
             TikTok Downloader
           </h1>
           <p className={`text-xl ${themeClasses.textSecondary}`}>
-            Download your favorite TikTok videos instantly
+            Download  TikTok videos instantly
           </p>
         </div>
 
@@ -252,10 +252,10 @@ function App() {
         <div className={`max-w-2xl mx-auto mb-12 p-8 rounded-2xl shadow-2xl ${themeClasses.card}`}>
           <div className="text-center mb-8">
             <h2 className={`text-2xl font-semibold mb-2 ${themeClasses.text}`}>
-              Download Videos HD and Without Watermark
+              Hasi Tiktok Videos Downloader
             </h2>
             <p className={themeClasses.textSecondary}>
-              Paste your TikTok link below and click download
+              Download videos HD & Without Watermark 
             </p>
           </div>
 
