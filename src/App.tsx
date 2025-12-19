@@ -347,13 +347,26 @@ function App() {
         {/* WhatsApp Channel Button */}
         <div className="text-center mb-8">
           <a
-            href="https://whatsapp.com/channel/0029VaHI7LsFnSz1irwgsL1z"
+            href="https://whatsapp.com/channel/0029Vb5qnK2HbFUyftE5UP1X"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-3 px-8 py-4 bg-green-500 hover:bg-green-600 text-white font-semibold rounded-2xl transition-all duration-300 hover:transform hover:scale-105 shadow-lg hover:shadow-xl"
           >
             <MessageCircle size={24} />
             Follow Developer WhatsApp Channel
+          </a>
+        </div>
+
+        {/* YouTube Channel Button */}
+        <div className="text-center mb-8">
+          <a
+            href="https://youtube.com/@mhmodsofc?si=TwPYTQNhBmP2BIqg"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-3 px-8 py-4 bg-pink-500 hover:bg-pink-600 text-white font-semibold rounded-2xl transition-all duration-300 hover:transform hover:scale-105 shadow-lg hover:shadow-xl"
+          >
+            <MessageCircle size={24} />
+            Subscribe YouTube Channel
           </a>
         </div>
 
